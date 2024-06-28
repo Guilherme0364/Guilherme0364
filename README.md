@@ -39,10 +39,3 @@
 ## Sobre Mim
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, foco meu aprendizado em desenvolvimento front-end, mas estou em constante evolução para me tornar um desenvolvedor full stack. Gosto de trabalhar em projetos desafiadores e de aprender novas tecnologias que me ajudem a crescer profissionalmente.
-
-## Contato
-
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- **E-mail:** seuemail@example.com
-
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>

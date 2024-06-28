@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Guilherme0364)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Guilherme0364&theme=highcontrast&locale=pt_BR&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 <!--
 **Guilherme0364/Guilherme0364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

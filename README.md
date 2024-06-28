@@ -1,3 +1,9 @@
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F70C&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Front-end+Developer" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F70C&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
+</a>
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Guilherme0364&theme=highcontrast&locale=pt_BR&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 <!--

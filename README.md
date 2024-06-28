@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Guilherme0364&theme=highcontrast&locale=pt_BR&card_width=500&card_height=200" alt="GitHub Streak">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0364&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0364&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub">
 </p>
 
 <h1 align="center">Guilherme Dias Gregório</h1>

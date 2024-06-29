@@ -38,4 +38,4 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, foco meu aprendizado em desenvolvimento front-end, mas estou em constante evolução para me tornar um desenvolvedor full stack. Gosto de trabalhar em projetos desafiadores e de aprender novas tecnologias que me ajudem a crescer profissionalmente.
+Sou um desenvolvedor curioso por tecnologia e que busca aprendizados constantemente. Atualmente, foco meu aprendizado em desenvolvimento front-end, mas estou em constante evolução para me tornar um desenvolvedor full stack. Gosto de trabalhar em projetos desafiadores e de aprender novas tecnologias que me ajudem a crescer profissionalmente.

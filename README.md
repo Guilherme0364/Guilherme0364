@@ -1,41 +1,71 @@
-<!-- Guilherme Dias Gregório - Front-end Developer -->
+<div align="center">
+  <img height="210" src="https://drive.google.com/file/d/1hdBCFpJlhe3_h6MJ5HwrR0ApyMw-6FEe/view?usp=drive_link"  />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F70C&center=true&vCenter=true&repeat=false&width=435&lines=Front-end+Developer" alt="Typing SVG">
-</p>
+###
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Guilherme0364&theme=highcontrast&locale=pt_BR&card_width=500&card_height=200" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0364&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub">
-</p>
+<h2 align="center">Guilherme Dias Gregório</h2>
 
-<h1 align="center">Guilherme Dias Gregório</h1>
-<h3 align="center">Front-end Developer</h3>
+###
 
-<p align="center">
-  Estudante de Engenharia de Software no Centro Universitário das Faculdades Associadas de Ensino - UNIFAE. Tenho 20 anos e estou constantemente aprendendo novas tecnologias enquanto sigo minha jornada para me tornar um Full Stack Developer.
-</p>
+<p align="left">Meu nome é Guilherme Dias Gregório, tenho 20 anos e atualmente estou cursando o 6º semestre da faculdade de Engenharia de Software no Centro Universitário das Faculdades de Ensino - UNIFAE. Busco uma carreira como programador e no momento presente estou estudando para ser um desenvolvedor Full-Stack, dando ênfase para tecnologias Javascript.</p>
 
-## Tecnologias que já utilizei
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-  
-</p>
+<br clear="both">
 
-## Sobre Mim
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme0364&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2" height="160" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Guilherme0364&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-Sou um desenvolvedor curioso por tecnologia e que busca aprendizados constantemente. Atualmente, foco meu aprendizado em desenvolvimento front-end, mas estou em constante evolução para me tornar um desenvolvedor full stack. Gosto de trabalhar em projetos desafiadores e de aprender novas tecnologias que me ajudem a crescer profissionalmente.
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
+  <img width="19" />
+  <img src="https://cdn.simpleicons.org/lua/2C2D72" height="35" alt="lua logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="180" src="https://github.com/Guilherme0364.png"  />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Guilherme0364/Guilherme0364/output/snake.svg" alt="Snake animation" />
+
+###

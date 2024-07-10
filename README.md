@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Guilherme Dias Gregório</h2>
+<h2 align="center">Sobre mim...</h2>
 
 ###
 

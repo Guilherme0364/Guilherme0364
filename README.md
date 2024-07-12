@@ -66,6 +66,7 @@
 
 <br clear="both">
 
-// <img src="https://raw.githubusercontent.com/Guilherme0364/Guilherme0364/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>

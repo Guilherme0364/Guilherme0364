@@ -44,7 +44,9 @@
   <img width="19" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
   <img width="19" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
 </div>
 
 ###

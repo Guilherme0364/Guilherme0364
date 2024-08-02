@@ -47,6 +47,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="19" />
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" 
 </div>
 
 ###

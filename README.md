@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="210" src="./github gui retângulo.png"  />
+  <img height="210" src="./github gui retângulo (2).png"  />
 </div>
 
 ###

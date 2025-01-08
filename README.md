@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Meu nome é Guilherme Dias Gregório, tenho 20 anos e atualmente estou cursando o 6º semestre da faculdade de Engenharia de Software no Centro Universitário das Faculdades de Ensino - UNIFAE. Busco uma carreira como programador e no momento presente estou estudando e trabalhando como Desenvolvedor Full-Stack em meu primeiro emprego na área. Estou buscando conhecimento em tecnologias para desenvolvimento híbrido mobile e back-end no momento, sendo meu primeiro contato profissional com React Native, mas buscando me aprimorar também em Kotlin e Java para projetos profissionais futuros. </p>
+<p align="left">Meu nome é Guilherme Dias Gregório, tenho 20 anos e atualmente estou cursando o 6º semestre da faculdade de Engenharia de Software no Centro Universitário das Faculdades de Ensino - UNIFAE. Busco uma carreira como programador e no momento presente estou estudando e trabalhando como Desenvolvedor Full-Stack em meu primeiro emprego na área. Estou buscando conhecimento em tecnologias para desenvolvimento híbrido mobile e back-end no momento, sendo meu primeiro contato profissional com React Native, mas buscando me aprimorar também em Kotlin, Java e C# para projetos profissionais futuros. </p>
 
 ###
 

@@ -8,13 +8,12 @@
 
 ###
 
-<p align="left">Meu nome é Guilherme Dias Gregório, tenho 20 anos e atualmente estou cursando o 6º semestre da faculdade de Engenharia de Software no Centro Universitário das Faculdades de Ensino - UNIFAE. Busco uma carreira como programador e no momento presente estou estudando e trabalhando como Desenvolvedor Full-Stack em meu primeiro emprego na área. Estou buscando conhecimento em tecnologias para desenvolvimento híbrido mobile e back-end no momento, sendo meu primeiro contato profissional com React Native, mas buscando me aprimorar também em Kotlin e C# para projetos profissionais futuros. </p>
-
-###
-
-<br clear="both">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0364&langs_count=8&theme=dark" />
+<div style="display: flex; align-items: flex-start;">
+    <p align="left" style="flex: 1; margin-right: 20px;">
+        Meu nome é Guilherme Dias Gregório, tenho 20 anos e atualmente estou cursando o 6º semestre da faculdade de Engenharia de Software no Centro Universitário das Faculdades de Ensino - UNIFAE. Busco uma carreira como programador e no momento presente estou estudando e trabalhando como Desenvolvedor Full-Stack em meu primeiro emprego na área. Estou buscando conhecimento em tecnologias para desenvolvimento híbrido mobile e back-end no momento, sendo meu primeiro contato profissional com React Native, mas buscando me aprimorar também em Kotlin e C# para projetos profissionais futuros.
+    </p>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0364&langs_count=8&theme=dark" />
+</div>
 
 ###
 

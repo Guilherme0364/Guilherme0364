@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Meu nome é Guilherme Dias Gregório, tenho 20 anos e atualmente estou cursando o 6º semestre da faculdade de Engenharia de Software no Centro Universitário das Faculdades de Ensino - UNIFAE. Busco uma carreira como programador e no momento presente estou estudando e trabalhando como Desenvolvedor Full-Stack em meu primeiro emprego na área. Estou buscando conhecimento em tecnologias para desenvolvimento híbrido mobile e back-end no momento, sendo meu primeiro contato profissional com React Native, mas buscando me aprimorar também em Kotlin, Java e C# para projetos profissionais futuros. </p>
+<p align="left">Meu nome é Guilherme Dias Gregório, tenho 20 anos e atualmente estou cursando o 6º semestre da faculdade de Engenharia de Software no Centro Universitário das Faculdades de Ensino - UNIFAE. Busco uma carreira como programador e no momento presente estou estudando e trabalhando como Desenvolvedor Full-Stack em meu primeiro emprego na área. Estou buscando conhecimento em tecnologias para desenvolvimento híbrido mobile e back-end no momento, sendo meu primeiro contato profissional com React Native, mas buscando me aprimorar também em Kotlin e C# para projetos profissionais futuros. </p>
 
 ###
 
@@ -16,7 +16,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme0364&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2" height="160" alt="languages graph" /> <br>
-<!-- <img src="https://streak-stats.demolab.com?user=Guilherme0364&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" -->
 </div>
 
 ###
@@ -48,7 +47,17 @@
   <img width="19" />
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
   <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=insomnia" height="50" alt="insomnia logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo" />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt=".net logo" />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sql server logo" />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="kotlin logo"  />
   <img width="19" />
 </div>
 

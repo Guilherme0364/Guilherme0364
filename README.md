@@ -68,8 +68,6 @@
 
 <br clear="both">
 
-<img align="right" height="180" src="https://github.com/Guilherme0364.png"  />
-
 ###
 
 <div align="left">

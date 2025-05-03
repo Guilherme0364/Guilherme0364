@@ -10,25 +10,23 @@
   <tr>
     <td width="55%" valign="top">
       <p>
-        👋 Me chamo <strong>Guilherme Dias Gregório</strong>, tenho 20 anos e estou no 7º semestre de Engenharia de Software na UNIFAE. Atuo como Desenvolvedor Full-Stack e foco meus estudos no ecossistema .NET, utilizando boas práticas como Clean Architecture, SOLID e versionamento com Git.
-        <br/><br/>
-        🚀 Busco evolução constante, com interesse especial por sistemas robustos, testes automatizados e desenvolvimento seguro. Tenho experiência com React, React Native, MySQL, Docker e ferramentas de CI/CD.
+        👋 Me chamo <strong>Guilherme Dias Gregório</strong>, 20 anos, estudante do 7º semestre de Engenharia de Software (UNIFAE) e desenvolvedor Full-Stack focado em <strong>.NET</strong>. Tenho experiência com aplicações web/mobile, API REST, arquitetura limpa e boas práticas de código.
       </p>
 
       <p>
-        🎯 <strong>Objetivo:</strong> atuar como desenvolvedor full-stack ou explorar a área de segurança ofensiva (Red Team), unindo lógica de programação com técnicas de ataque e automação.
+        🚀 Atualmente, estou aprofundando meus conhecimentos em segurança da informação no trabalho. Tenho interesse crescente na área ofensiva (Red Team), especialmente em automatização de ataques com scripts e ferramentas personalizadas.
       </p>
 
       <p>
-        💼 <strong>Hard Skills:</strong> .NET Core, C#, JavaScript/TypeScript, React, SQL, Git, Docker, arquitetura DDD, testes, APIs REST.
+        🎯 <strong>Objetivo:</strong> seguir carreira como Full-Stack ou atuar em Red Team com foco em scripts e simulações de ataque.
       </p>
 
       <p>
-        💡 <strong>Soft Skills:</strong> comunicação clara, proatividade, aprendizado rápido, trabalho em equipe e pensamento crítico.
+        ⚙️ <strong>Hard Skills:</strong> .NET Core, C#, React, JavaScript/TypeScript, SQL, Docker, Git, arquitetura DDD, testes automatizados.
       </p>
 
       <p>
-        🛡️ <strong>Cybersecurity:</strong> comecei recentemente a trabalhar na área e venho aprendendo fundamentos práticos de segurança. Tenho me interessado por Red Team e estou estudando criação de scripts para automação de testes ofensivos e simulação de ataques.
+        💡 <strong>Soft Skills:</strong> comunicação clara, pensamento crítico, autonomia, aprendizado rápido, colaboração em equipe.
       </p>
     </td>
     <td width="45%" align="center">

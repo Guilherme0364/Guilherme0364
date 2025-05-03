@@ -8,12 +8,21 @@
 
 ###
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 10px;">
-    <p style="flex: 1; margin-right: 20px; margin-top: 10px; margin-bottom: 10px;">
+<h2 align="center">Sobre mim...</h2>
+
+<table>
+  <tr>
+    <td style="width: 60%; vertical-align: top;">
+      <p>
         Meu nome é Guilherme Dias Gregório, tenho 20 anos e atualmente estou cursando o 7º semestre da faculdade de Engenharia de Software no Centro Universitário das Faculdades de Ensino - UNIFAE. Busco uma carreira como programador e no momento presente estou estudando e trabalhando como Desenvolvedor Full-Stack. Estou buscando conhecimento em tecnologias para desenvolvimento Full-Stack, focando principalmente em tecnologias C# e .NET Core.
-    </p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0364&langs_count=8&theme=dark" style="margin-top: 10px; margin-bottom: 10px;" />
-</div>
+      </p>
+    </td>
+    <td style="width: 40%; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0364&langs_count=8&theme=dark" />
+    </td>
+  </tr>
+</table>
+
 
 
 ###

@@ -10,23 +10,11 @@
   <tr>
     <td width="55%" valign="top">
       <p>
-        👋 Me chamo <strong>Guilherme Dias Gregório</strong>, 20 anos, estudante do 7º semestre de Engenharia de Software (UNIFAE) e desenvolvedor Full-Stack focado em <strong>.NET</strong>. Tenho experiência com aplicações web/mobile, API REST, arquitetura limpa e boas práticas de código.
-      </p>
-
-      <p>
-        🚀 Atualmente, estou aprofundando meus conhecimentos em segurança da informação no trabalho. Tenho interesse crescente na área ofensiva (Red Team), especialmente em automatização de ataques com scripts e ferramentas personalizadas.
-      </p>
-
-      <p>
-        🎯 <strong>Objetivo:</strong> seguir carreira como Full-Stack ou atuar em Red Team com foco em scripts e simulações de ataque.
-      </p>
-
-      <p>
-        ⚙️ <strong>Hard Skills:</strong> .NET Core, C#, React, JavaScript/TypeScript, SQL, Docker, Git, arquitetura DDD, testes automatizados.
-      </p>
-
-      <p>
-        💡 <strong>Soft Skills:</strong> comunicação clara, pensamento crítico, autonomia, aprendizado rápido, colaboração em equipe.
+        Meu nome é Guilherme Dias Gregório, tenho 20 anos e curso o 7º semestre de Engenharia de Software na UNIFAE. Atuo como desenvolvedor Full-Stack com foco em C# e .NET Core, aplicando Clean Architecture, princípios SOLID, versionamento com Git e metodologias ágeis.
+        <br/><br/>
+        Tenho facilidade em trabalhar em equipe, boa comunicação, pensamento analítico e autonomia. Também desenvolvo com React, React Native e banco de dados MySQL, explorando práticas de testes automatizados e CI/CD.
+        <br/><br/>
+        Atualmente, trabalho na área de segurança da informação, onde estudo fundamentos de cybersecurity e técnicas ofensivas, com foco em automação de ataques, privilege escalation e Red Team.
       </p>
     </td>
     <td width="45%" align="center">
@@ -34,6 +22,7 @@
     </td>
   </tr>
 </table>
+
 
 ###
 

@@ -9,16 +9,15 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-<p>
-  Meu nome é Guilherme Dias Gregório, tenho 20 anos e atualmente estou cursando o 7º semestre da faculdade de Engenharia de Software no Centro Universitário das Faculdades de Ensino - UNIFAE. Busco uma carreira como programador e no momento presente estou estudando e trabalhando como Desenvolvedor Full-Stack. Estou focando meu aprendizado principalmente em tecnologias do ecossistema C# e .NET Core, com ênfase em arquitetura limpa (Clean Architecture), princípios SOLID, práticas de versionamento com Git e uso de metodologias ágeis.
-  <br/><br/>
-  Além das competências técnicas, desenvolvi ao longo do curso e de experiências práticas habilidades interpessoais importantes, como comunicação clara, pensamento analítico, autonomia na resolução de problemas e facilidade em trabalhar em equipe. Tenho afinidade com ambientes colaborativos e valorizo a organização e a proatividade como parte do meu processo de evolução profissional.
-  <br/><br/>
-  Também venho aprofundando meus conhecimentos em desenvolvimento Front-End com React e React Native, além de lidar com bancos de dados relacionais como MySQL e ferramentas de testes e CI/CD. Estou constantemente em busca de aprendizado contínuo, tanto em tecnologias quanto em práticas de desenvolvimento seguras e escaláveis.
-  <br/><br/>
-  Recentemente iniciei uma nova etapa profissional com foco em Cybersegurança, onde tenho aprendido fundamentos práticos da área, análise de vulnerabilidades e uso de ferramentas de pentest. Esse novo desafio despertou meu interesse especial pela área de Red Team, e pretendo investir tempo no estudo aprofundado de técnicas ofensivas e criação de scripts personalizados para automatização de ataques e simulações. Essa combinação entre desenvolvimento e segurança tem expandido minha visão técnica e me motivado a buscar soluções cada vez mais robustas e seguras.
-</p>
-
+      <p>
+        Meu nome é Guilherme Dias Gregório, tenho 20 anos e atualmente estou cursando o 7º semestre da faculdade de Engenharia de Software no Centro Universitário das Faculdades de Ensino - UNIFAE. Busco uma carreira como programador e no momento presente estou estudando e trabalhando como Desenvolvedor Full-Stack. Estou focando meu aprendizado principalmente em tecnologias do ecossistema C# e .NET Core, com ênfase em arquitetura limpa (Clean Architecture), princípios SOLID, práticas de versionamento com Git e uso de metodologias ágeis.
+        <br/><br/>
+        Além das competências técnicas, desenvolvi ao longo do curso e de experiências práticas habilidades interpessoais importantes, como comunicação clara, pensamento analítico, autonomia na resolução de problemas e facilidade em trabalhar em equipe. Tenho afinidade com ambientes colaborativos e valorizo a organização e a proatividade como parte do meu processo de evolução profissional.
+        <br/><br/>
+        Também venho aprofundando meus conhecimentos em desenvolvimento Front-End com React e React Native, além de lidar com bancos de dados relacionais como MySQL e ferramentas de testes e CI/CD. Estou constantemente em busca de aprendizado contínuo, tanto em tecnologias quanto em práticas de desenvolvimento seguras e escaláveis.
+        <br/><br/>
+        Atualmente, estou tendo a oportunidade de expandir minha área de atuação com meu novo emprego na área de segurança da informação, onde tenho aprendido sobre fundamentos de cybersecurity, tipos de ataques e práticas de defesa. Esse contato despertou em mim um interesse específico na área de Red Team, e estou investindo tempo para estudar ataques ofensivos e automação de testes por meio de scripts personalizados, visando fortalecer meu entendimento prático sobre vetores de ataque, privilege escalation e segurança ofensiva como um todo.
+      </p>
     </td>
     <td width="45%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0364&langs_count=8&theme=dark" />

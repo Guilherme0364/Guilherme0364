@@ -10,13 +10,25 @@
   <tr>
     <td width="55%" valign="top">
       <p>
-        Meu nome é Guilherme Dias Gregório, tenho 20 anos e atualmente estou cursando o 7º semestre da faculdade de Engenharia de Software no Centro Universitário das Faculdades de Ensino - UNIFAE. Busco uma carreira como programador e no momento presente estou estudando e trabalhando como Desenvolvedor Full-Stack. Estou focando meu aprendizado principalmente em tecnologias do ecossistema C# e .NET Core, com ênfase em arquitetura limpa (Clean Architecture), princípios SOLID, práticas de versionamento com Git e uso de metodologias ágeis.
+        👋 Me chamo <strong>Guilherme Dias Gregório</strong>, tenho 20 anos e estou no 7º semestre de Engenharia de Software na UNIFAE. Atuo como Desenvolvedor Full-Stack e foco meus estudos no ecossistema .NET, utilizando boas práticas como Clean Architecture, SOLID e versionamento com Git.
         <br/><br/>
-        Além das competências técnicas, desenvolvi ao longo do curso e de experiências práticas habilidades interpessoais importantes, como comunicação clara, pensamento analítico, autonomia na resolução de problemas e facilidade em trabalhar em equipe. Tenho afinidade com ambientes colaborativos e valorizo a organização e a proatividade como parte do meu processo de evolução profissional.
-        <br/><br/>
-        Também venho aprofundando meus conhecimentos em desenvolvimento Front-End com React e React Native, além de lidar com bancos de dados relacionais como MySQL e ferramentas de testes e CI/CD. Estou constantemente em busca de aprendizado contínuo, tanto em tecnologias quanto em práticas de desenvolvimento seguras e escaláveis.
-        <br/><br/>
-        Atualmente, estou tendo a oportunidade de expandir minha área de atuação com meu novo emprego na área de segurança da informação, onde tenho aprendido sobre fundamentos de cybersecurity, tipos de ataques e práticas de defesa. Esse contato despertou em mim um interesse específico na área de Red Team, e estou investindo tempo para estudar ataques ofensivos e automação de testes por meio de scripts personalizados, visando fortalecer meu entendimento prático sobre vetores de ataque, privilege escalation e segurança ofensiva como um todo.
+        🚀 Busco evolução constante, com interesse especial por sistemas robustos, testes automatizados e desenvolvimento seguro. Tenho experiência com React, React Native, MySQL, Docker e ferramentas de CI/CD.
+      </p>
+
+      <p>
+        🎯 <strong>Objetivo:</strong> atuar como desenvolvedor full-stack ou explorar a área de segurança ofensiva (Red Team), unindo lógica de programação com técnicas de ataque e automação.
+      </p>
+
+      <p>
+        💼 <strong>Hard Skills:</strong> .NET Core, C#, JavaScript/TypeScript, React, SQL, Git, Docker, arquitetura DDD, testes, APIs REST.
+      </p>
+
+      <p>
+        💡 <strong>Soft Skills:</strong> comunicação clara, proatividade, aprendizado rápido, trabalho em equipe e pensamento crítico.
+      </p>
+
+      <p>
+        🛡️ <strong>Cybersecurity:</strong> comecei recentemente a trabalhar na área e venho aprendendo fundamentos práticos de segurança. Tenho me interessado por Red Team e estou estudando criação de scripts para automação de testes ofensivos e simulação de ataques.
       </p>
     </td>
     <td width="45%" align="center">

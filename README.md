@@ -15,7 +15,7 @@
         <br/><br/>
         Tenho facilidade em trabalhar em equipe, boa comunicação, pensamento analítico e autonomia. Também desenvolvo com React, React Native e banco de dados MySQL, explorando práticas de testes automatizados e CI/CD.
         <br/><br/>
-        Atualmente, trabalho na área de segurança da informação, onde estudo fundamentos de cybersecurity e técnicas ofensivas, com foco em automação de ataques, privilege escalation e Red Team.
+        Atualmente, trabalho na área de segurança da informação, onde estudo fundamentos de cibersegurança, desenvolvimento de software e DevOps, unindo-os intrinsecamente no meu dia a dia de trabalho, visando uma atuação sólida como Engenheiro de DevSecOps.
       </p>
     </td>
     <td width="45%" align="center">

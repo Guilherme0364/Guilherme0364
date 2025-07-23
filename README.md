@@ -11,7 +11,7 @@
     <td width="55%" valign="top">
       <p>
         <br/><br/>
-        Meu nome é Guilherme Dias Gregório, tenho 20 anos e curso o 7º semestre de Engenharia de Software na UNIFAE. Atuo como desenvolvedor Full-Stack com foco em C# e .NET Core, aplicando Clean Architecture, princípios SOLID, versionamento com Git e metodologias ágeis.
+        Meu nome é Guilherme Dias Gregório, tenho 20 anos e curso o 8º semestre de Engenharia de Software na UNIFAE. Atuo como desenvolvedor Full-Stack com foco em C# e .NET Core, aplicando Clean Architecture, princípios SOLID, versionamento com Git e metodologias ágeis.
         <br/><br/>
         Tenho facilidade em trabalhar em equipe, boa comunicação, pensamento analítico e autonomia. Também desenvolvo com React, React Native e banco de dados MySQL, explorando práticas de testes automatizados e CI/CD.
         <br/><br/>

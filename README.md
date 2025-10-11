@@ -19,7 +19,7 @@
       </p>
     </td>
     <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0364&langs_count=8&theme=dark" />
+      <img src="https://camo.githubusercontent.com/e9f087c861874d2292a69bc69500a7a008d89ce6fee69b52cd87d5d8850001c5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4775696c6865726d6530333634266c616e67735f636f756e743d38267468656d653d6461726b" />
     </td>
   </tr>
 </table>

@@ -11,11 +11,9 @@
     <td width="55%" valign="top">
       <p>
         <br/><br/>
-        Meu nome é Guilherme Dias Gregório, tenho 20 anos e curso o 8º semestre de Engenharia de Software na UNIFAE. Atuo como desenvolvedor Full-Stack com foco em C# e .NET Core, aplicando Clean Architecture, princípios SOLID, versionamento com Git e metodologias ágeis.
+        Meu nome é Guilherme Dias Gregório, tenho 21 anos e atuo como Analista de SOC, focado na linha de frente da defesa cibernética. Atualmente, sou pós-graduando em Cibersegurança Ofensiva, o que me permite aplicar o mindset de atacante ('Red Team') para aprimorar           minhas estratégias de defesa, triagem e resposta a incidentes ('Blue Team').
         <br/><br/>
-        Tenho facilidade em trabalhar em equipe, boa comunicação, pensamento analítico e autonomia. Também desenvolvo com React, React Native e banco de dados MySQL, explorando práticas de testes automatizados e CI/CD.
-        <br/><br/>
-        Atualmente, trabalho na área de segurança da informação, onde estudo fundamentos de cibersegurança, desenvolvimento de software e DevOps, unindo-os intrinsecamente no meu dia a dia de trabalho, visando uma atuação sólida como Engenheiro de DevSecOps.
+        Minha bagagem como desenvolvedor Full-Stack (C#/.NET) me oferece um diferencial técnico importante: facilidade para analisar scripts maliciosos, entender a lógica de aplicações vulneráveis e automatizar rotinas operacionais. Também possuo vivência em NOC,               garantindo uma visão sistêmica entre segurança e disponibilidade de infraestrutura. Meu objetivo é me especializar cada vez mais em Operações de Segurança e Inteligência de Ameaças.
       </p>
     </td>
     <td width="45%" align="center">
